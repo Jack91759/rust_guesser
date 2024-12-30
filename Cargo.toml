@@ -1,0 +1,8 @@
+[package]
+name = "guess_the_number"  # Use your project name here
+version = "0.1.0"
+edition = "2021"  # You can use "2018" if you're using an older edition of Rust
+
+[dependencies]
+rand = "0.8"  # or any version you're using for rand crate
+colored = "2.0"  # or any version you're using for colored crate
